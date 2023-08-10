@@ -1,5 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I am Tom Henricksen </h1>
 
+<h3 align="center">Coder. Speaker. Power Skill Enabler.</h3>
+<p align="center"> 
+<a href="https://twitter.com/TomHenricksen" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="TomHenricksen" /></a> 
+<a href="https://www.linkedin.com/in/tomhenricksen/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--
 **thenrick73/thenrick73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
