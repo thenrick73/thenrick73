@@ -5,6 +5,12 @@
 <a href="https://twitter.com/TomHenricksen" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="TomHenricksen" /></a> 
 <a href="https://www.linkedin.com/in/tomhenricksen/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+## Activities
+  
+- 💻 Crafting solutions with Java, Vue.js and JavaScript/TypeScript
+- ✔️ Soft skills enthusiast and speaker
+- ✔️ Enjoys traveling, biking, and brews
+  
   ## Blog posts you might be interested
 <!-- BLOG POSTS START -->
 <p align="left">
