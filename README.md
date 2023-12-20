@@ -10,7 +10,7 @@
 - 💻 Crafting solutions with Java, Vue.js and JavaScript/TypeScript
 - ✔️ Soft skills enthusiast and speaker
 - ✔️ Enjoys traveling, biking, and brews
-  
+- ⚡ Fun fact: I originally lived in Iowa and now live in Pennslyvania.  
   ## Blog posts you might be interested
 <!-- BLOG POSTS START -->
 <p align="left">
