@@ -22,8 +22,8 @@
 Commit frequently. Pair up. And much more! </p> <br/> <br/>
 
 <p align="left">
-<a href="https://medium.com/@TomHenricksen/lucca-says-to-leave-the-code-better-than-you-found-it-f5878e8eb686" title="Luca says to leave the code better than you found it"><img src="https://miro.medium.com/v2/resize:fit:720/0*DHjHohVTfEDkZBmZ" alt="Luca says to leave the code better than you found it" width="250px" align="left" /></a>
-<a href="https://medium.com/@TomHenricksen/lucca-says-to-leave-the-code-better-than-you-found-it-f5878e8eb686" title="Luca says to leave the code better than you found it"><strong>Luca says to leave the code better than you found it</strong></a>
+<a href="https://medium.com/@TomHenricksen/make-mistakes-to-craft-an-amazing-career-654c45b60fd4" title="Make mistakes to craft an amazing career"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*AAPUyRfHfH-Qv8o_" alt="Luca says to leave the code better than you found it" width="250px" align="left" /></a>
+<a href="https://medium.com/@TomHenricksen/make-mistakes-to-craft-an-amazing-career-654c45b60fd4" title="Make mistakes to craft an amazing career"><strong>Make mistakes to craft an amazing career</strong></a>
 <a href="https://medium.com/@TomHenricksen/dont-you-know-trunk-based-development-is-where-it-s-at-18e9312c9341" title="Don’t you know trunk-based development is where it’s at?"><strong>Don’t you know trunk-based development is where it’s at?</strong></a>
 <br/> Simple steps to improve your codebase.
   <!--
