@@ -17,8 +17,10 @@
 <a href="https://medium.com/@TomHenricksen/lucca-says-to-leave-the-code-better-than-you-found-it-f5878e8eb686" title="Luca says to leave the code better than you found it"><img src="https://miro.medium.com/v2/resize:fit:720/0*DHjHohVTfEDkZBmZ" alt="Luca says to leave the code better than you found it" width="250px" align="left" /></a>
 <a href="https://medium.com/@TomHenricksen/lucca-says-to-leave-the-code-better-than-you-found-it-f5878e8eb686" title="Luca says to leave the code better than you found it"><strong>Luca says to leave the code better than you found it</strong></a>
 <a href="https://medium.com/@TomHenricksen/dont-you-know-trunk-based-development-is-where-it-s-at-18e9312c9341" title="Don’t you know trunk-based development is where it’s at?"><strong>Don’t you know trunk-based development is where it’s at?</strong></a>
-<br/> Simple steps to improve your codebase. 
-</p> <br/> <br/>
+<br/> Why do writing tests first matter? What are the benefits of TDD? How to get started? 
+
+Check this article and learn about the benefits of this magnificent tool we call Test Driven Development! </p> <br/> <br/>
+
 <p align="left">
 <a href="https://medium.com/@TomHenricksen/lucca-says-to-leave-the-code-better-than-you-found-it-f5878e8eb686" title="Luca says to leave the code better than you found it"><img src="https://miro.medium.com/v2/resize:fit:720/0*DHjHohVTfEDkZBmZ" alt="Luca says to leave the code better than you found it" width="250px" align="left" /></a>
 <a href="https://medium.com/@TomHenricksen/lucca-says-to-leave-the-code-better-than-you-found-it-f5878e8eb686" title="Luca says to leave the code better than you found it"><strong>Luca says to leave the code better than you found it</strong></a>
