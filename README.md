@@ -23,9 +23,10 @@ Commit frequently. Pair up. And much more! </p> <br/> <br/>
 <p align="left">
 <a href="https://medium.com/@TomHenricksen/make-mistakes-to-craft-an-amazing-career-654c45b60fd4" title="Make mistakes to craft an amazing career"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*AAPUyRfHfH-Qv8o_" alt="Make mistakes to craft an amazing career" width="250px" align="left" /></a>
 <a href="https://medium.com/@TomHenricksen/make-mistakes-to-craft-an-amazing-career-654c45b60fd4" title="Make mistakes to craft an amazing career"><strong>Make mistakes to craft an amazing career</strong></a>
-<br/> Make mistakes.
-Experiment
-Break things
+<br/> Make mistakes<br/>
+Experiment<br/>
+Break things<br/>
+ </p>
   <!--
 **thenrick73/thenrick73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
