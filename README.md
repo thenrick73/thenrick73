@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://medium.com/@TomHenricksen/lucca-says-to-leave-the-code-better-than-you-found-it-f5878e8eb686" title="Luca says to leave the code better than you found it"><img src="https://miro.medium.com/v2/resize:fit:720/0*DHjHohVTfEDkZBmZ" alt="Luca says to leave the code better than you found it" width="250px" align="left" /></a>
 <a href="https://medium.com/@TomHenricksen/lucca-says-to-leave-the-code-better-than-you-found-it-f5878e8eb686" title="Luca says to leave the code better than you found it"><strong>Luca says to leave the code better than you found it</strong></a>
-<br/> Leave the code better than how you found it. Create small pull requests.
+<br/> Create small pull requests.
 
 Commit frequently. Pair up. And much more! </p> <br/> <br/>
 
